@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @misscift
+- 👀 I’m interested in femboys
+- 🌱 I’m currently learning JS & GO
