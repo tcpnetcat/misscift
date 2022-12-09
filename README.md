@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @misscift
+- 👋 Hi, I’m @tcpnetcat
 - 👀 I’m interested in femboys
-- 🌱 I’m currently learning JS & GO
+- 🌱 I’m currently learning JS & PHP
